@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Peregrine.iml" filepath="$PROJECT_DIR$/Peregrine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coloret.iml" filepath="$PROJECT_DIR$/Coloret.iml" />
       <module fileurl="file://$PROJECT_DIR$/coloret/coloret.iml" filepath="$PROJECT_DIR$/coloret/coloret.iml" />
     </modules>
   </component>
